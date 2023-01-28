@@ -1,0 +1,67 @@
+[
+        {
+            "id":"1",
+            "name":"Multigrain Roti",
+            "kcal":192.5,
+            "carb":28.54,
+            "prot":3.25,
+            "fat":5.35
+        },
+        {
+            "id":"2",
+            "name":"Butter Roti",
+            "kcal":406.41,
+            "carb":69.79,
+            "prot":8.11,
+            "fat":6.95 
+        },
+        {
+            "id":"3",
+            "name":"Jowar Bajra Roti",
+            "kcal":216.65,			
+            "carb":24.41,
+            "prot":2.83,
+            "fat":10.36
+        },
+        {
+            "id":"4",
+            "name":"Bajra Roti",
+            "kcal":260.83,			
+            "carb":38.46,
+            "prot":4.78,
+            "fat":5.85
+        },
+        {
+            "id":"5",
+            "name":"Ragi Roti",
+            "kcal":208.74,		
+            "carb":34.28,
+            "prot":2.57,
+            "fat":5.25
+        },
+        {
+            "id":"6",
+            "name":"Tandoori Roti",
+            "kcal":254.94,
+            "carb":33.71,
+            "prot":3.66,
+            "fat":10.67
+        },
+        {
+            "id":"7",
+            "name":"Besan Roti",
+            "kcal":167.46,
+            "carb":19.96,
+            "prot":4.99,
+            "fat":5.46
+        },
+        {
+            "id":"8",
+            "name":"Makki Roti",
+            "kcal":361.57,
+            "carb":60.85,
+            "prot":5.94,
+            "fat":6.13
+        }
+    
+]

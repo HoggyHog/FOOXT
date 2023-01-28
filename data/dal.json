@@ -1,0 +1,67 @@
+[
+    {
+        "id":"1",
+        "name":"Amritsari Dal",
+        "kcal":157.39,
+        "carb":17.41,
+        "prot":5.45,
+        "fat":5.62
+    },
+    {
+        "id":"2",
+        "name":"Dal Fry",
+        "kcal":139.92,
+        "carb":11.29,
+        "prot":3.38,
+        "fat":8.11 
+    },
+    {
+        "id":"3",
+        "name":"Lauki Dal",
+        "kcal":810.34,			
+        "carb":79.62,
+        "prot":18.61,
+        "fat":38.83
+    },
+    {
+        "id":"4",
+        "name":"Mixed Dal",
+        "kcal":198.85,			
+        "carb":24.22,
+        "prot":8.05,
+        "fat":5.62
+    },
+    {
+        "id":"5",
+        "name":"Mixed Vegetable Dal",
+        "kcal":194.22,		
+        "carb":25.04,
+        "prot":6.23,
+        "fat":5.22
+    },
+    {
+        "id":"6",
+        "name":"Palak Dal",
+        "kcal":122.52,
+        "carb":16.39,
+        "prot":4.74,
+        "fat":2.75
+    },
+    {
+        "id":"7",
+        "name":"Toor Dal",
+        "kcal":227.45,
+        "carb":29.56,
+        "prot":9.33,
+        "fat":5.72
+    },
+    {
+        "id":"8",
+        "name":"Green Gram Amaranth Dal",
+        "kcal":157.45,
+        "carb":17.73,
+        "prot":5.67,
+        "fat":5.36
+    }
+
+]

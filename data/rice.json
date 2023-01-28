@@ -1,0 +1,67 @@
+[
+    {
+        "id":"1",
+        "name":"Plain Rice",
+        "kcal":91.73,
+        "carb":20.14,
+        "prot":1.43,
+        "fat":0.03
+    },
+    {
+        "id":"2",
+        "name":"Brown Rice",
+        "kcal":189.60,
+        "carb":40.09,
+        "prot":3.44,
+        "fat":0.17 
+    },
+    {
+        "id":"3",
+        "name":"Vegetable Rice",
+        "kcal":381.38,			
+        "carb":50.20,
+        "prot":3.85,
+        "fat":15.49
+    },
+    {
+        "id":"4",
+        "name":"Jeera Rice",
+        "kcal":211.87,			
+        "carb":25.71,
+        "prot":2.12,
+        "fat":10.44
+    },
+    {
+        "id":"5",
+        "name":"Cauliflower Rice",
+        "kcal":132.87,		
+        "carb":10.59,
+        "prot":1.02,
+        "fat":5.43
+    },
+    {
+        "id":"6",
+        "name":"Sprouts Rice",
+        "kcal":492.22,
+        "carb":75.52,
+        "prot":17.66,
+        "fat":8.06
+    },
+    {
+        "id":"7",
+        "name":"Brown Rice Veg Pulao",
+        "kcal":171.22,
+        "carb":24.35,
+        "prot":2.49,
+        "fat":5.70
+    },
+    {
+        "id":"8",
+        "name":"Mint Pulao",
+        "kcal":184.82,
+        "carb":24.87,
+        "prot":3.14,
+        "fat":6.65
+    }
+
+]
